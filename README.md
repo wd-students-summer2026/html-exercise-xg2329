@@ -1,4 +1,4 @@
-# A Web Site About Me
+# HTML Exercise - A Web Site About Me
 
 Welcome! In this assignment, you will create a personal web site consisting of three distinct web pages:
 
@@ -28,6 +28,7 @@ It must contain an **ordered list** of links to pages for each assignment in thi
 - Responsive Design Assignment (link to `index.html`)
 - Bootstrap Assignment (link to `professional_site.html`)
 - Photoshop Assignment (link to `photoshop.html`)
+- Vector Graphics Assignment (link to `vector_graphics.html`)
 - Animated GIF Assignment (link to `animated_gif.html`)
 - Digital Video Assignment (link to `video.html`)
 
